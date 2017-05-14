@@ -10,7 +10,7 @@ build: [
   [ "./configure" ]
   [ make "-j%{jobs}%" ]
 ]
-install: [ make install ]
+install: [ make "install" ]
 remove: [ "sh" "-c" "rm -rf '%{lib}%/coq/user-contrib/VerdiRaft'" ]
 depends: [
   "coq" {= "dev"}
