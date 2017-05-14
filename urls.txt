@@ -5,10 +5,10 @@ packages/coq-verdi/coq-verdi.8.6.dev/url 9862349f8e3493d6bc9792fc0f798719 0o664
 packages/coq-verdi/coq-verdi.8.6.dev/opam 60e57a9500fbc781b34d99418ba88679 0o664
 packages/coq-verdi/coq-verdi.8.6.dev/descr a3d09b6c3c06846dd303eb51be1de26a 0o664
 packages/coq-verdi-raft/coq-verdi-raft.dev/url c3de4d6d8f7c2db5c492b8c045b570d5 0o664
-packages/coq-verdi-raft/coq-verdi-raft.dev/opam 7b9e0e9684f20b2b96eccebecf1b7e49 0o664
+packages/coq-verdi-raft/coq-verdi-raft.dev/opam 73a9c6da44bcf84633a23e71c8c014a0 0o664
 packages/coq-verdi-raft/coq-verdi-raft.dev/descr 471fae7c8e24a004b39f91fd183d3bb4 0o664
 packages/coq-verdi-raft/coq-verdi-raft.8.6.dev/url c3de4d6d8f7c2db5c492b8c045b570d5 0o664
-packages/coq-verdi-raft/coq-verdi-raft.8.6.dev/opam a1682e7341000d9e497c86e8ce1082b8 0o664
+packages/coq-verdi-raft/coq-verdi-raft.8.6.dev/opam af9a422ff74bd60ae99f7b4d7d75d52f 0o664
 packages/coq-verdi-raft/coq-verdi-raft.8.6.dev/descr 471fae7c8e24a004b39f91fd183d3bb4 0o664
 packages/coq-struct-tact/coq-struct-tact.dev/url 4a283a168553e837f860917fb2e1aba9 0o664
 packages/coq-struct-tact/coq-struct-tact.dev/opam db0f000ee7abac2dc72a1420851f27ca 0o664
