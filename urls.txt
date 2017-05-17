@@ -2,7 +2,7 @@ packages/coq-verdi/coq-verdi.dev/url 9862349f8e3493d6bc9792fc0f798719 0o664
 packages/coq-verdi/coq-verdi.dev/opam 51b1c817250c051e95b3abfb70d233a9 0o664
 packages/coq-verdi/coq-verdi.dev/descr a3d09b6c3c06846dd303eb51be1de26a 0o664
 packages/coq-verdi/coq-verdi.8.6.dev/url 9862349f8e3493d6bc9792fc0f798719 0o664
-packages/coq-verdi/coq-verdi.8.6.dev/opam 60e57a9500fbc781b34d99418ba88679 0o664
+packages/coq-verdi/coq-verdi.8.6.dev/opam 96507af5327820b2debe2bf7aa4f2119 0o664
 packages/coq-verdi/coq-verdi.8.6.dev/descr a3d09b6c3c06846dd303eb51be1de26a 0o664
 packages/coq-verdi-raft/coq-verdi-raft.dev/url c3de4d6d8f7c2db5c492b8c045b570d5 0o664
 packages/coq-verdi-raft/coq-verdi-raft.dev/opam 73a9c6da44bcf84633a23e71c8c014a0 0o664
