@@ -1,9 +1,9 @@
 opam-version: "1.2"
 maintainer: "palmskog@gmail.com"
 
-homepage: "https://github.com/uwplse/verdi-raft"
-dev-repo: "https://github.com/uwplse/verdi-raft.git"
-bug-reports: "https://github.com/uwplse/verdi-raft/issues"
+homepage: "https://github.com/uwplse/verdi"
+dev-repo: "https://github.com/uwplse/verdi.git"
+bug-reports: "https://github.com/uwplse/verdi/issues"
 license: "BSD"
 
 build: [
@@ -11,19 +11,18 @@ build: [
   [ make "-j%{jobs}%" ]
 ]
 install: [ make "install" ]
-remove: [ "sh" "-c" "rm -rf '%{lib}%/coq/user-contrib/VerdiRaft'" ]
+remove: [ "sh" "-c" "rm -rf '%{lib}%/coq/user-contrib/Verdi'" ]
 depends: [
-  "coq" {= "dev"}
-  "coq-verdi" {= "dev"}
-  "coq-struct-tact" {= "dev"}
-  "coq-cheerios" {= "dev"}
-  "coq-verdi-cheerios" {= "dev"}
+  "coq" {= "8.7.dev"}
+  "coq-mathcomp-ssreflect" {= "dev"}
+  "coq-inf-seq-ext" {= "8.7.dev"}
+  "coq-struct-tact" {= "8.7.dev"}
 ]
+
 tags: [
   "category:Computer Science/Concurrent Systems and Protocols/Theory of concurrent systems"
   "keyword:program verification"
   "keyword:distributed algorithms"
-  "keyword:raft"
 ]
 authors: [
   "James Wilcox <>"
@@ -33,5 +32,4 @@ authors: [
   "Steve Anton <>"
   "Karl Palmskog <>"
   "Ryan Doenges <>"
-  "Justin Adsuara <>"
 ]

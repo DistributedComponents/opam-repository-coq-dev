@@ -13,11 +13,11 @@ build: [
 install: [ make "install" ]
 remove: [ "sh" "-c" "rm -rf '%{lib}%/coq/user-contrib/VerdiRaft'" ]
 depends: [
-  "coq" {= "dev"}
-  "coq-verdi" {= "dev"}
-  "coq-struct-tact" {= "dev"}
-  "coq-cheerios" {= "dev"}
-  "coq-verdi-cheerios" {= "dev"}
+  "coq" {= "8.7.dev"}
+  "coq-verdi" {= "8.7.dev"}
+  "coq-struct-tact" {= "8.7.dev"}
+  "coq-cheerios" {= "8.7.dev"}
+  "coq-verdi-cheerios" {= "8.7.dev"}
 ]
 tags: [
   "category:Computer Science/Concurrent Systems and Protocols/Theory of concurrent systems"
