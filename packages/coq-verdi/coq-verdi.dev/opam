@@ -14,7 +14,6 @@ install: [ make "install" ]
 remove: [ "sh" "-c" "rm -rf '%{lib}%/coq/user-contrib/Verdi'" ]
 depends: [
   "coq" {= "dev"}
-  "coq-mathcomp-ssreflect" {= "dev"}
   "coq-inf-seq-ext" {= "dev"}
   "coq-struct-tact" {= "dev"}
 ]
