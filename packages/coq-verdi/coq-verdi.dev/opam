@@ -16,6 +16,7 @@ depends: [
   "coq" {= "dev"}
   "coq-inf-seq-ext" {= "dev"}
   "coq-struct-tact" {= "dev"}
+  "coq-cheerios" {= "dev"}
 ]
 
 tags: [
@@ -31,4 +32,5 @@ authors: [
   "Steve Anton <>"
   "Karl Palmskog <>"
   "Ryan Doenges <>"
+  "Justin Adsuara <>"
 ]
